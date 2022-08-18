@@ -1,6 +1,12 @@
 [![MasterHead](https://miro.medium.com/max/1838/0*FGD6BUzzZs1VJLuY.gif)]
 <h1 align="center">Hi 👋, I'm Shashank kumar</h1>
-<h3 align="center">A passionate fullstack web developer having knowledge on MERN Technologies and done various real time projects using the skillset.</h3>
+
+<h3>Introduction : </h3>
+<p align="left">Passinated Full-Stack Web-Developer having knowledge of Html,Css,Javascript, Redux and MERN Technologies. Completed Many hands-on Real time Projects including colabrative and Individual Project</p>
+<h3>Objective</h3>
+<p align="left">Complex problem-solver with analytical and driven mindset.
+Dedicated to achieving demanding development objectives
+according to tight schedules while producing impeccable code.</p>
 <img align='right' alt='coding' width='400' src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashankkumarp&label=Profile%20views&color=0e75b6&style=flat" alt="shashankkumarp" /> </p>
