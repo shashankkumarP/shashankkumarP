@@ -1,6 +1,6 @@
 [![MasterHead](https://miro.medium.com/max/1838/0*FGD6BUzzZs1VJLuY.gif)]
 <h1 align="center">Hi 👋, I'm Shashank kumar</h1>
-<h3 align="center">A passionate fullstack web developer from India</h3>
+<h3 align="center">A passionate fullstack web developer having knowledge on MERN Technologies and done various real time projects using the skillset.</h3>
 <img align='right' alt='coding' width='400' src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashankkumarp&label=Profile%20views&color=0e75b6&style=flat" alt="shashankkumarp" /> </p>
