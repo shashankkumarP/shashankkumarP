@@ -21,7 +21,7 @@ according to tight schedules while producing impeccable code.</p>
 
 - 📫 How to reach me **madhav131ex@gmail.com**
 
-- 📄 My Resume [https://drive.google.com/file/d/1mRgOqlHBXJa_-G-fakG78NavOtAR3VFR/view?usp=sharing](https://drive.google.com/file/d/1mRgOqlHBXJa_-G-fakG78NavOtAR3VFR/view?usp=sharing)
+- 📄 My Resume [https://drive.google.com/file/d/1mRgOqlHBXJa_-G-fakG78NavOtAR3VFR/view?usp=sharing](https://drive.google.com/file/d/1uBYB0WYjvmnwH5K-Ofb4J1g1sw6adshx/view?usp=sharing)
 
 - ⚡ Fun fact **I Think I am funny**
 - <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashankkumarp" alt="shashankkumarp" /></a> </p>
