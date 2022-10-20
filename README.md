@@ -11,8 +11,6 @@ according to tight schedules while producing impeccable code.</p>
 
 
 
-- 🌱 I’m currently learning **MERN**
-
 - 💬 Ask me about **REDUX,REACT,MONGODB,EXPRESS,NODE JS,JAVASCRIPT,HTML,CSS**
 
 - 📫 How to reach me **madhav131ex@gmail.com**
