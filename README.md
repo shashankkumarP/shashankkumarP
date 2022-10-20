@@ -11,7 +11,7 @@ according to tight schedules while producing impeccable code.</p>
 
 
 
-- 💬 Ask me about **redux,react,mongodb,express-js,node-js,javascript,html,css**
+- 💬 Ask me about **redux,react,mongodb,express js,node js,javascript,html,css**
 
 - 📫 How to reach me **madhav131ex@gmail.com**
 
