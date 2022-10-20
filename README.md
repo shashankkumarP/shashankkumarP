@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shashank kumar</h1>
 
 <h3>Introduction : </h3>
-<p align="left">A Complex problem-solver with analytical and driven mindset,
+<p align="left">An Aspiring Full-stack web Developer and a Complex problem-solver with analytical and driven mindset,
 Dedicated to achieving demanding development objectives
 according to tight schedules while producing impeccable code.</p>
 <img align='right' alt='coding' width='400' src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif" />
