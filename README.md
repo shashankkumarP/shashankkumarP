@@ -28,7 +28,6 @@ according to tight schedules while producing impeccable code.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@pandeykumarshashank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@pandeykumarshashank" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shashank-kumar-83008122b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashank-kumar-83008122b" height="30" width="40" /></a>
 <a href="https://codesandbox.com/shashankkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="shashankkumar" height="30" width="40" /></a>
 <a href="https://medium.com/https://medium.com/me/stories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/me/stories" height="30" width="40" /></a>
