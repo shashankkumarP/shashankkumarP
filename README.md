@@ -13,8 +13,6 @@ according to tight schedules while producing impeccable code.</p>
 
 - 🌱 I’m currently learning **MERN**
 
-- 📝 I regularly write articles on [https://medium.com/me/stories/drafts](https://medium.com/me/stories/drafts)
-
 - 💬 Ask me about **REDUX,REACT,MONGODB,EXPRESS,NODE JS,JAVASCRIPT,HTML,CSS**
 
 - 📫 How to reach me **madhav131ex@gmail.com**
