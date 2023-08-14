@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shashank kumar</h1>
 
 <h3>Introduction : </h3>
-<p align="left">An Aspiring Full-stack Web Developer and a Complex problem-solver with analytical and driven mindset,
+<p align="left">An Aspiring Full-stack Web Developer having 1+ Years of experience in MERN Technologies and a Complex problem-solver with analytical and driven mindset,
 dedicated to achieving demanding development objectives
 according to tight schedules while producing impeccable code.</p>
 <img align='right' alt='coding' width='400' src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif" />
@@ -11,7 +11,7 @@ according to tight schedules while producing impeccable code.</p>
 
 
 
-- 💬 Ask me about **redux, react, mongodb, express js, node js, next js, javascript, html, css**
+- 💬 Ask me about **redux, react, mongodb, express js, node js, next js, javascript, html, css, Camunda BPMN And Dmn**
 
 - 📫 How to reach me **madhav131ex@gmail.com**
 
