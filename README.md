@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/max/1838/0*FGD6BUzzZs1VJLuY.gif)]
+![MasterHead](https://miro.medium.com/max/1838/0*FGD6BUzzZs1VJLuY.gif)
 <h1 align="center">Hi 👋, I'm Shashank kumar</h1>
 
 <h3>Introduction : </h3>
