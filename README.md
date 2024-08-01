@@ -14,7 +14,7 @@ according to tight schedules while producing impeccable code.</p>
 
 - 📫 How to reach me **madhav131ex@gmail.com**
 
-- 📄 My Resume [GoogleDriveLink](https://drive.google.com/file/d/1ulR5GTO0hPuQSAusmJqQSL29w4M0Dgy5/view?usp=drive_link)
+- 📄 My Resume [GoogleDriveLink](https://drive.google.com/file/d/1qBoVkuhC_cZ5AUqZaDlNrFxHcOPNMj8d/view?usp=sharing)
 
 - <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashankkumarp" alt="shashankkumarp" /></a> </p>
 
