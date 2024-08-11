@@ -15,7 +15,7 @@
 
 - 📄 My Resume [GoogleDriveLink](https://drive.google.com/file/d/1qBoVkuhC_cZ5AUqZaDlNrFxHcOPNMj8d/view?usp=sharing)
 
-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashankkumarp" alt="shashankkumarp" /></a> </p>
+- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashankkumarp" alt="shashankkumarP" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
