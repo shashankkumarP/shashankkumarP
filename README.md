@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shashank kumar</h1>
 
 <h3>Introduction : </h3>
-<p align="left">A Full-stack Web Developer having 1+ Years of experience in MERN Technologies, Makings custom Tile/form for enterprise specific, making Api's, designing workflow for application, Maintaining database for enterprise specific and always dedicated to achieve  demanding development objectives
-according to tight schedules while producing impeccable code.</p>
+<p align="left">A passionate FullStack Developer with around 3 years of experience in MERN, Node, GraphQL, ElasticSearch, AWS, GCP, and more, dedicated to achieving demanding development objectives on tight schedules while producing impeccable code.</p>
 <img align='right' alt='coding' width='400' src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashankkumarp&label=Profile%20views&color=0e75b6&style=flat" alt="shashankkumarp" /> </p>
